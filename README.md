@@ -61,9 +61,9 @@ contact the administration for assistance.
 After logging in, the user will be able to see a pop-up menu with
 choices as:
 
-1. EVENT CUSTOMISATION
-2. CHANGE PASSWORD
-3. MAIN MENU
+. EVENT CUSTOMISATION
+. CHANGE PASSWORD
+. MAIN MENU
    
 Before customising the event, the user will be ought to give in some
 basic information about the event such as Location, Address, Type of event,
@@ -73,17 +73,17 @@ event.
 
  EVENT CUSTOMISATION:
 
- USER’S CHOICE: This module lets the user to create and
+- USER’S CHOICE: This module lets the user to create and
 customise the plans and edit already available sub events.
 
- SPECIFIC REQUIREMENTS: This module lets the user to
+- SPECIFIC REQUIREMENTS: This module lets the user to
 select and edit the requirements and helps the user to completely
 customize their own event.
 
- FOOD/SNACKS: This module lets the user to select the type of
+- FOOD/SNACKS: This module lets the user to select the type of
 food or snacks and menu they would like to be catered in the event.
 
- REPORT: This module gives the user the report of the event.
+- REPORT: This module gives the user the report of the event.
 
  CHANGE PASSWORD: The user will be able to change his/her
 login password through this choice.
