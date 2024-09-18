@@ -34,6 +34,7 @@ Happening production has 3 main modules:
 3. EXIT
 
 
+
 => ADMIN:
 This module can only be accessed by the administrator. It is used to
 view and edit the user and event information of the customers who have
@@ -58,12 +59,15 @@ has made any incorrect choices and wishes to make changes, they must
 contact the administration for assistance.
 
 
+
 => CUSTOMER:
 After logging in, the user will be able to see a pop-up menu with
 choices as:
 
 . EVENT CUSTOMISATION
+
 . CHANGE PASSWORD
+
 . MAIN MENU
    
 Before customising the event, the user will be ought to give in some
@@ -71,6 +75,8 @@ basic information about the event such as Location, Address, Type of event,
 date of the event and timings. After inputting these required fields, the user
 will be able to customise his/her own event or choose already available
 event.
+
+
 
  EVENT CUSTOMISATION:
 
@@ -86,8 +92,10 @@ food or snacks and menu they would like to be catered in the event.
 
 - REPORT: This module gives the user the report of the event.
 
+
  CHANGE PASSWORD: The user will be able to change his/her
 login password through this choice.
+
 
  MAIN MENU: This will take the user back to the main menu.
 
