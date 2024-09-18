@@ -33,7 +33,8 @@ Happening production has 3 main modules:
 2. CUSTOMER
 3. EXIT
 
-1. ADMIN:
+
+=> ADMIN:
 This module can only be accessed by the administrator. It is used to
 view and edit the user and event information of the customers who have
 already enrolled them in an event.
@@ -57,7 +58,7 @@ has made any incorrect choices and wishes to make changes, they must
 contact the administration for assistance.
 
 
-2. CUSTOMER:
+=> CUSTOMER:
 After logging in, the user will be able to see a pop-up menu with
 choices as:
 
@@ -90,7 +91,9 @@ login password through this choice.
 
  MAIN MENU: This will take the user back to the main menu.
 
-3. EXIT:
+
+
+=> EXIT:
 
 Exit is used to exit or terminate the program.
 
